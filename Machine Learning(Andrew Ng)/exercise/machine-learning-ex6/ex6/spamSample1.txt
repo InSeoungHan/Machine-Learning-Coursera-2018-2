@@ -1,0 +1,8 @@
+Here is the Steam Guard code you need to login to account eeodzb10:
+
+JWFBH
+This email was generated because of a login attempt from a web or mobile device located at 147.46.91.61 (KR). The login attempt included your correct account name and password.
+
+The Steam Guard code is required to complete the login. No one can access your account without also accessing this email.
+
+If you are not attempting to login then please change your Steam password, and consider changing your email password as well to ensure your account security.
